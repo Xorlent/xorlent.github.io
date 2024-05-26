@@ -1,6 +1,8 @@
 # Xorlent
 ## About Me
-Cybersecurity engineer, electrical engineer
+###Cybersecurity engineer, electrical engineer.  
+Most of my repositories include novel solutions that solve real-world problems I encounter in the course of my job.  
+
 ## Current/Recent Projects
 - [ESP32-based PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
 - [Cisco OSPF Network Monitor/Visualizer](https://github.com/Xorlent/Cisco-OSPF-Monitor)
