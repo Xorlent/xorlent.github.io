@@ -9,3 +9,4 @@ Cybersecurity engineer, electrical engineer
 ## Favorite Projects
 - [CrowdStrike Falcon Contain UI](https://github.com/Xorlent/Falcon-Contain)
 - [Simple File Integrity Monitoring tool](https://github.com/Xorlent/SimpleFIM)
+- [Cybersecurity Helpful Links](https://github.com/Xorlent/Cybersec-Links)
