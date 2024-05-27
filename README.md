@@ -1,7 +1,7 @@
 # Xorlent
 ## About Me
 ### Cybersecurity engineer, electrical engineer.  
-Most of my repositories include novel solutions that solve real-world problems I encounter in the course of my job.  
+Most of my repositories include novel (or free vs paid) solutions that solve real-world problems I encounter in the course of my job.  
 [https://github.com/Xorlent](https://github.com/Xorlent)  
 
 ## Current/Recent Projects
