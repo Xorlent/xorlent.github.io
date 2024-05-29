@@ -5,7 +5,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 [https://github.com/Xorlent](https://github.com/Xorlent)  
 
 ## Current/Recent Projects
-- [ESP32-based PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
+- [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
 - [Cisco OSPF Network Monitor/Visualizer](https://github.com/Xorlent/Cisco-OSPF-Monitor)
 - [Windows Software Restriction Policy Generator](https://github.com/Xorlent/Windows-SRP-Policy-Generator)  
 
