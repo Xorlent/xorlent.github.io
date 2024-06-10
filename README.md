@@ -12,6 +12,6 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 
 ## Favorite Projects
 - [CrowdStrike Falcon Contain UI](https://github.com/Xorlent/Falcon-Contain)
-- [Simple File Integrity Monitoring](https://github.com/Xorlent/SimpleFIM)
+- [Simple File Integrity Monitor](https://github.com/Xorlent/SimpleFIM)
 - [Cybersecurity Helpful Links](https://github.com/Xorlent/Cybersec-Links)
 - [Thinkst Canary Cloudflare Worker](https://github.com/Xorlent/Canary-Cloudflare)
