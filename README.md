@@ -7,6 +7,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 ## Current/Recent Projects
 - [The $26 Honeypot](https://github.com/Xorlent/The-26-Dollar-Honeypot)
 - [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
+- [Hakko 850/850B Solder Rework Station Handpiece 3D Model](https://github.com/Xorlent/Hakko-850-Handpiece)
 - [Cisco OSPF Network Monitor/Visualizer](https://github.com/Xorlent/Cisco-OSPF-Monitor)
 - [Windows Software Restriction Policy Generator](https://github.com/Xorlent/Windows-SRP-Policy-Generator)  
 
