@@ -5,6 +5,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 [https://github.com/Xorlent](https://github.com/Xorlent)  
 
 ## Current/Recent Projects
+- [ESP32 Watchman](https://github.com/Xorlent/ESP32-Watchman)
 - [The $26 Honeypot](https://github.com/Xorlent/The-26-Dollar-Honeypot)
 - [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
 - [Stretchoid scanner IP list](https://github.com/Xorlent/Stretchoid)
