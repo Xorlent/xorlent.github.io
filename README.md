@@ -5,15 +5,16 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 [https://github.com/Xorlent](https://github.com/Xorlent)  
 
 ## Current/Recent Projects
-- [ESP32 Watchman](https://github.com/Xorlent/ESP32-Watchman)
+- [ESP32 Watchman](https://github.com/Xorlent/ESP32-Watchman) (Work in progress)
+- [Stretchoid Azure IP List](https://github.com/Xorlent/Stretchoid)
 - [The $26 Honeypot](https://github.com/Xorlent/The-26-Dollar-Honeypot)
 - [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
 - [Stretchoid scanner IP list](https://github.com/Xorlent/Stretchoid)
-- [Cisco OSPF Network Monitor/Visualizer](https://github.com/Xorlent/Cisco-OSPF-Monitor)
-- [Windows Software Restriction Policy Generator](https://github.com/Xorlent/Windows-SRP-Policy-Generator)  
+- [Cisco OSPF Network Monitor/Visualizer](https://github.com/Xorlent/Cisco-OSPF-Monitor) 
 
 ## Favorite Projects
 - [CrowdStrike Falcon Contain UI](https://github.com/Xorlent/Falcon-Contain)
 - [Simple File Integrity Monitor](https://github.com/Xorlent/SimpleFIM)
 - [Cybersecurity Helpful Links](https://github.com/Xorlent/Cybersec-Links)
 - [Thinkst Canary Cloudflare Worker](https://github.com/Xorlent/Canary-Cloudflare)
+- [Windows Software Restriction Policy Generator](https://github.com/Xorlent/Windows-SRP-Policy-Generator) 
