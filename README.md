@@ -6,10 +6,9 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 
 ## Current/Recent Projects
 - [ESP32 Watchman](https://github.com/Xorlent/ESP32-Watchman) (Work in progress)
-- [Stretchoid Scanner List](https://github.com/Xorlent/Stretchoid)
+- [Stretchoid Scanner IP List](https://github.com/Xorlent/Stretchoid)
 - [The $26 Honeypot](https://github.com/Xorlent/The-26-Dollar-Honeypot)
 - [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
-- [Stretchoid scanner IP list](https://github.com/Xorlent/Stretchoid)
 - [Cisco OSPF Network Monitor/Visualizer](https://github.com/Xorlent/Cisco-OSPF-Monitor) 
 
 ## Favorite Projects
