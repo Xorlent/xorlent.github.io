@@ -5,7 +5,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 [https://github.com/Xorlent](https://github.com/Xorlent)  
 
 ## Current/Recent Projects
-- [Pre-authentication solution for dynamic IP allowlisting](https://github.com/Xorlent/Fort-Knocks)
+- Fort Knocks [pre-authentication solution for dynamic IP allowlisting](https://github.com/Xorlent/Fort-Knocks)
 - [Office365 Hygiene and Account Monitoring Tool](https://github.com/Xorlent/O365-Monitor)
 - [Stretchoid Scanner IP List](https://github.com/Xorlent/Stretchoid)
 - [The $26 Honeypot](https://github.com/Xorlent/The-26-Dollar-Honeypot)
