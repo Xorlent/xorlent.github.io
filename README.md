@@ -7,7 +7,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 ## Current/Recent Projects
 - [Internet Scanners IP Lists](https://github.com/Xorlent/Internet-Scanners)
 - [DNS Data Diode PoC](https://github.com/Xorlent/DNS-Data-Diode)
-- [The $26 Honeypot](https://github.com/Xorlent/The-26-Dollar-Honeypot)
+- [Particle.io Boron404X Solutions](https://github.com/Xorlent/Boron404X)
 - [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
 
 ## Favorite Projects
