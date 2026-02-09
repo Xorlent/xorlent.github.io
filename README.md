@@ -6,7 +6,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 
 ## Current/Recent Projects
 - [Internet Scanners IP Lists](https://github.com/Xorlent/Internet-Scanners)
-- [DNS Data Diode PoC](https://github.com/Xorlent/DNS-Data-Diode)
+- [PoE-powered remote facility monitor/watchdog](https://github.com/Xorlent/ESP32-Watchman)
 - [Particle.io Boron404X Solutions](https://github.com/Xorlent/Boron404X)
 - [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
 
