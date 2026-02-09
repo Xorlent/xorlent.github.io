@@ -12,7 +12,6 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 
 ## Favorite Projects
 - [CrowdStrike Falcon Contain UI](https://github.com/Xorlent/Falcon-Contain)
-- [ESP32 Watchman (Bluetooth radio detector)](https://github.com/Xorlent/ESP32-Watchman)
 - [Cybersecurity Helpful Links](https://github.com/Xorlent/Cybersec-Links)
 - [Thinkst Canary Cloudflare Worker](https://github.com/Xorlent/Canary-Cloudflare)
 - [Windows Software Restriction Policy Generator](https://github.com/Xorlent/Windows-SRP-Policy-Generator) 
