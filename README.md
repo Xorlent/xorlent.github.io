@@ -9,6 +9,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 - [PoE-powered remote facility monitor/watchdog](https://github.com/Xorlent/ESP32-Watchman)
 - [Particle.io Boron404X Solutions](https://github.com/Xorlent/Boron404X)
 - [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
+- [ESP32 In-Memory DB](https://github.com/Xorlent/ESP32IMDB)
 
 ## Favorite Projects
 - [CrowdStrike Falcon Contain UI](https://github.com/Xorlent/Falcon-Contain)
