@@ -12,6 +12,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 - [ESP32 In-Memory DB](https://github.com/Xorlent/ESP32IMDB)
 
 ## Favorite Projects
+- [WolfSSL Compatibility Wrapper](https://github.com/Xorlent/ESP32-EasyWolfSSL)
 - [CrowdStrike Falcon Contain UI](https://github.com/Xorlent/Falcon-Contain)
 - [Cybersecurity Helpful Links](https://github.com/Xorlent/Cybersec-Links)
 - [Thinkst Canary Cloudflare Worker](https://github.com/Xorlent/Canary-Cloudflare)
