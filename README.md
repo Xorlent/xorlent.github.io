@@ -13,7 +13,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
   - Monitor an unlimited number of TCP, UDP, ICMP ports
   - Send events to Syslog or SMTP
 - [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
-- [Arduino ESP32 In-Memory DB](https://github.com/Xorlent/ESP32IMDB)
+- [Arduino ESP32 In-Memory DB Library](https://github.com/Xorlent/ESP32IMDB)
 - [Arduino ESP32-P4 Ultra-Low Power Library (Experimental)](https://github.com/Xorlent/ESP32P4_ULP)
 
 ## Favorite Projects
