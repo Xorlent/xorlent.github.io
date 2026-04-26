@@ -17,7 +17,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 - [Arduino ESP32-P4 Ultra-Low Power Library (Experimental)](https://github.com/Xorlent/ESP32P4_ULP)
 
 ## Favorite Projects
-- [WolfSSL Compatibility Wrapper](https://github.com/Xorlent/ESP32-EasyWolfSSL)
+- [Arduino WolfSSL Compatibility Wrapper](https://github.com/Xorlent/ESP32-EasyWolfSSL)
 - [CrowdStrike Falcon Contain UI](https://github.com/Xorlent/Falcon-Contain)
 - [Cybersecurity Helpful Links](https://github.com/Xorlent/Cybersec-Links)
 - [Thinkst Canary Cloudflare Worker](https://github.com/Xorlent/Canary-Cloudflare)
