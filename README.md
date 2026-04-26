@@ -13,11 +13,12 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
   - Monitor an unlimited number of TCP, UDP, ICMP ports
   - Send events to Syslog or SMTP
 - [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
-- [ESP32 In-Memory DB](https://github.com/Xorlent/ESP32IMDB)
+- [Arduino ESP32 In-Memory DB](https://github.com/Xorlent/ESP32IMDB)
+- [Arduino ESP32-P4 Ultra-Low Power Library (Experimental)](https://github.com/Xorlent/ESP32P4_ULP)
 
 ## Favorite Projects
 - [WolfSSL Compatibility Wrapper](https://github.com/Xorlent/ESP32-EasyWolfSSL)
 - [CrowdStrike Falcon Contain UI](https://github.com/Xorlent/Falcon-Contain)
 - [Cybersecurity Helpful Links](https://github.com/Xorlent/Cybersec-Links)
 - [Thinkst Canary Cloudflare Worker](https://github.com/Xorlent/Canary-Cloudflare)
-- [Windows Software Restriction Policy Generator](https://github.com/Xorlent/Windows-SRP-Policy-Generator) 
+- [Windows Software Restriction Policy Generator](https://github.com/Xorlent/Windows-SRP-Policy-Generator)
