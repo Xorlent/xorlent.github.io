@@ -14,7 +14,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
   - Send events to Syslog or SMTP
 - [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
 - [Arduino ESP32 In-Memory DB Library](https://github.com/Xorlent/ESP32IMDB)
-- [Arduino ESP32-P4 Ultra-Low Power Library (Experimental)](https://github.com/Xorlent/ESP32P4_ULP)
+- [Arduino ESP32 ControlLogix EthernetIP/CIP Library (Alpha)](https://github.com/Xorlent/ESP32ControlLogix)
 
 ## Favorite Projects
 - [Arduino WolfSSL Compatibility Wrapper](https://github.com/Xorlent/ESP32-EasyWolfSSL)
