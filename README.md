@@ -6,15 +6,15 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 
 ## Current/Recent Projects
 - [Internet Scanners IP Lists](https://github.com/Xorlent/Internet-Scanners)
+- [Arduino ESP32 ControlLogix PLC Network and Vulnerability Scanner](https://github.com/Xorlent/SCADASentry)
 - [Sub-$35 PoE-powered remote facility monitor/watchdog](https://github.com/Xorlent/ESP32-Watchman)
   - Passively or actively scans and alerts on nearby Bluetooth devices
   - Optionally add light detection or ultrasonic motion sensing
-- [$22 PoE-powered honeypot (V2!)](https://github.com/Xorlent/PoE-Honeypot)
+- [$22 PoE-powered honeypot (V2)](https://github.com/Xorlent/PoE-Honeypot)
   - Monitor an unlimited number of TCP, UDP, ICMP ports
   - Send events to Syslog or SMTP
 - [$32 PoE-powered SNMP Environmental Monitor](https://github.com/Xorlent/PoESP32-SNMP-Environmental-Monitor)
 - [Arduino ESP32 In-Memory DB Library](https://github.com/Xorlent/ESP32IMDB)
-- [Arduino ESP32 ControlLogix PLC Network and Vulnerability Scanner](https://github.com/Xorlent/SCADASentry)
 
 ## Favorite Projects
 - [Arduino WolfSSL Compatibility Wrapper](https://github.com/Xorlent/ESP32-EasyWolfSSL)
