@@ -5,7 +5,7 @@ Most of my repositories include novel (or free vs paid) solutions that solve rea
 [https://github.com/Xorlent](https://github.com/Xorlent)  
 
 ## Current/Recent Projects
-- [Internet Scanners IP Lists](https://github.com/Xorlent/Internet-Scanners)
+- [Vaydeer 9-key Programmer](https://github.com/Xorlent/Vaydeer-9-Key-Programmer)
 - [Arduino ESP32 ControlLogix PLC Network and Vulnerability Scanner](https://github.com/Xorlent/SCADASentry)
 - [Sub-$35 PoE-powered remote facility monitor/watchdog](https://github.com/Xorlent/ESP32-Watchman)
   - Passively or actively scans and alerts on nearby Bluetooth devices
